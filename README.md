@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;Back-End+Learner;Learning+Full+Stack;Passionate+About+Coding!" />
 </p>
 
----
+--- 
 
 ## 🛠 Tech Stack
 
