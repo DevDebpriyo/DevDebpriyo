@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Debpriyo Ghosal</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
 </p>
 
 --- 
