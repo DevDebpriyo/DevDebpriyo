@@ -2,7 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Coding!;Building+Scalable+Web+Apps" />
 </p>
+<p align="center">
+  <a href="https://debpriyo.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
+<br/>
 --- 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
